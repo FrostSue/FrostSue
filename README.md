@@ -10,7 +10,7 @@ Most of my projects revolve around **Python** bots and automations, **C#** deskt
 
 - [**TG2XPoster**](https://github.com/FrostSue/TG2XPoster) &mdash; Real-time automation tool mirroring Telegram channel posts to X (Twitter) with smart media album grouping and auto-threading.
 - [**Phone-Tether-Tunnel**](https://github.com/FrostSue/Phone-Tether-Tunnel) &mdash; Shares your phone's VLESS tunnel with a Windows PC over USB or Hotspot, routing all desktop traffic including Discord voice (UDP).
-- [**Anime-Sage-Telegram-Bot**](https://github.com/FrostSue/Anime-Sage-Telegram-Bot) &mdash; High-performance Telegram anime recommendation bot powered by Pyrogram and Groq AI (Llama 3).
+- [**Winter-Desk**](https://github.com/FrostSue/Winter-Desk) &mdash; Ambient winter desktop companion for Windows featuring window-aware snowfall simulation, physics, and interactive decorations.
 - [**LinguaDash**](https://github.com/FrostSue/LinguaDash) &mdash; Fast-paced English vocabulary challenge game built with Flutter and Dart.
 - [**Free-UAV-Forecast**](https://github.com/FrostSue/Free-UAV-Forecast) &mdash; Pre-flight drone weather inspection tool with wind interpolation and storm alerts.
 
