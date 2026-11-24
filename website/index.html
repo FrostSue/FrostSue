@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FrostSue's site</title>
+    <meta name="description" content="Building tools for tinkerers, by a tinkerer. Automation engines, network utilities, and system software.">
+    <meta property="og:title" content="FrostSue's site">
+    <meta property="og:description" content="Building tools for tinkerers, by a tinkerer.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://frostsue.github.io/">
+    <meta name="theme-color" content="#191B1C">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body data-theme="dark">
+    <div class="container">
+        <header class="header">
+            <pre class="ascii rainbow">
+    ______                __  _____          
+   / ____/________  _____/ /_/ ___/__  _____ 
+  / /_  / ___/ __ \/ ___/ __/\__ \/ / / / _ \
+ / __/ / /  / /_/ (__  ) /_ ___/ / /_/ /  __/
+/_/   /_/   \____/____/\__//____/\__,_/\___/ 
+            </pre>
+            <div class="tagline">BUILDING TOOLS FOR TINKERERS, BY A TINKERER</div>
+            <div class="sub-tagline">Software Developer &middot; Automation Enthusiast &middot; Tinkerer</div>
+        </header>
+
+        <section class="section">
+            <div class="section-title">~ about</div>
+            <div class="section-content">
+                <p>
+                    I build tools and automation software aimed at tinkerers and power users. 
+                    Specialized in high-performance Telegram bots, network proxies, reverse engineering utilities, and AI-assisted workflows.
+                </p>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-title">~ featured projects</div>
+            <div class="projects-list">
+                <div class="project-item">
+                    <span class="prompt">&gt;</span>
+                    <a href="https://github.com/FrostSue/TG2XPoster" target="_blank" rel="noopener noreferrer" class="rainbow-hover">TG2XPoster</a>
+                    <span class="project-desc">Event-driven automation mirroring Telegram content to X in real-time</span>
+                </div>
+                <div class="project-item">
+                    <span class="prompt">&gt;</span>
+                    <a href="https://github.com/FrostSue/Phone-Tether-Tunnel" target="_blank" rel="noopener noreferrer" class="rainbow-hover">Phone-Tether-Tunnel</a>
+                    <span class="project-desc">Share mobile VLESS VPN tunnels with PC over USB/hotspot including UDP</span>
+                </div>
+                <div class="project-item">
+                    <span class="prompt">&gt;</span>
+                    <a href="https://github.com/FrostSue/Anime-Sage-Telegram-Bot" target="_blank" rel="noopener noreferrer" class="rainbow-hover">Anime-Sage-Telegram-Bot</a>
+                    <span class="project-desc">High-performance recommendation bot using Pyrogram and Groq Llama 3</span>
+                </div>
+                <div class="project-item">
+                    <span class="prompt">&gt;</span>
+                    <a href="https://github.com/FrostSue/LinguaDash" target="_blank" rel="noopener noreferrer" class="rainbow-hover">LinguaDash</a>
+                    <span class="project-desc">Fast-paced, customizable vocabulary game built with Flutter and Dart</span>
+                </div>
+                <div class="project-item">
+                    <span class="prompt">&gt;</span>
+                    <a href="https://github.com/FrostSue/Free-UAV-Forecast" target="_blank" rel="noopener noreferrer" class="rainbow-hover">Free-UAV-Forecast</a>
+                    <span class="project-desc">Pre-flight UAV check tool with wind interpolation and storm alerts</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-title">~ links &amp; contact</div>
+            <div class="links-grid">
+                <span class="link-entry">&gt; <a href="https://github.com/FrostSue" target="_blank" rel="noopener noreferrer" class="rainbow rainbow-animated">github</a></span>
+                <span class="link-entry">&gt; <a href="https://t.me/FrostSue" target="_blank" rel="noopener noreferrer" class="rainbow rainbow-animated">telegram</a></span>
+                <span class="link-entry">&gt; <a href="mailto:emirhan_58600@hotmail.com" class="rainbow rainbow-animated">email</a></span>
+                <span class="link-entry">&gt; <a href="https://github.com/FrostSue/frostsue.github.io" target="_blank" rel="noopener noreferrer" class="rainbow rainbow-animated">source</a></span>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="status-indicator">
+                <span class="status-dot"></span>
+                <span>system nominal &middot; available for collaborations</span>
+            </div>
+        </footer>
+    </div>
+
+    <div class="quick-settings" aria-label="Settings">
+        <button id="theme-toggle" class="icon-button" type="button" title="Toggle theme">
+            <span class="button-label">theme: <span id="theme-name">dark</span></span>
+        </button>
+        <button id="rainbow-toggle" class="icon-button" type="button" title="Toggle rainbow animation">
+            <span class="button-label">fx: <span id="fx-status">on</span></span>
+        </button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
