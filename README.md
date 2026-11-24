@@ -1,28 +1,28 @@
-# 「フロストスー」・ Engineering Autonomous Bots & System Automations
+# Hey, I'm Emirhan (FrostSue) 👋
 
-> 夜の作業室 (Nocturnal Workspace) &mdash; Crafting event-driven Telegram engines, network proxies, and intelligent automations.
+I'm an independent developer building Telegram bots, desktop tools, and mobile apps.
 
-I am a software developer focused on building autonomous Telegram bots, low-level network tunneling utilities, and AI-assisted workflows. I specialize in asynchronous Python architectures, modern UI applications with Flutter, and backend automations.
-
----
-
-### Featured Works
-
-- [**TG2XPoster**](https://github.com/FrostSue/TG2XPoster) &mdash; Real-time event-driven automation engine mirroring Telegram channel content to X (Twitter) with zero latency, group media support, and Docker integration.
-- [**Phone-Tether-Tunnel**](https://github.com/FrostSue/Phone-Tether-Tunnel) &mdash; Low-level proxy router sharing mobile VLESS VPN tunnels with PC over USB/Hotspot, enabling full UDP and Discord voice routing.
-- [**Anime-Sage-Telegram-Bot**](https://github.com/FrostSue/Anime-Sage-Telegram-Bot) &mdash; High-performance recommendation bot powered by Pyrogram and Groq AI (Llama 3) with asynchronous architecture.
-- [**LinguaDash**](https://github.com/FrostSue/LinguaDash) &mdash; Fast-paced vocabulary game built with Flutter and Dart featuring custom word pools and responsive UI.
-- [**Free-UAV-Forecast**](https://github.com/FrostSue/Free-UAV-Forecast) &mdash; Pre-flight UAV meteorology and geomagnetic storm alert platform.
+Most of my projects revolve around **Python** bots and automations, **C#** desktop utilities, and **Flutter** mobile apps.
 
 ---
 
-### Tech Stack & Tools
+### Featured Projects
+
+- [**TG2XPoster**](https://github.com/FrostSue/TG2XPoster) &mdash; Real-time automation tool mirroring Telegram channel posts to X (Twitter) with smart media album grouping and auto-threading.
+- [**Phone-Tether-Tunnel**](https://github.com/FrostSue/Phone-Tether-Tunnel) &mdash; Shares your phone's VLESS tunnel with a Windows PC over USB or Hotspot, routing all desktop traffic including Discord voice (UDP).
+- [**Anime-Sage-Telegram-Bot**](https://github.com/FrostSue/Anime-Sage-Telegram-Bot) &mdash; High-performance Telegram anime recommendation bot powered by Pyrogram and Groq AI (Llama 3).
+- [**LinguaDash**](https://github.com/FrostSue/LinguaDash) &mdash; Fast-paced English vocabulary challenge game built with Flutter and Dart.
+- [**Free-UAV-Forecast**](https://github.com/FrostSue/Free-UAV-Forecast) &mdash; Pre-flight drone weather inspection tool with wind interpolation and storm alerts.
+
+---
+
+### Tech Stack
 
 #### Languages & Frameworks
 [![Languages & Frameworks](https://skillicons.dev/icons?i=python,ts,js,cs,dart,flutter,flask,docker)](https://skillicons.dev)
 
-#### Environments & Tools
-[![Tools & Environment](https://skillicons.dev/icons?i=linux,windows,git,github,vscode)](https://skillicons.dev)
+#### Tools & Environment
+[![Tools & Environment](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://skillicons.dev)
 
 ---
 
@@ -35,17 +35,17 @@ I am a software developer focused on building autonomous Telegram bots, low-leve
 
 ---
 
-### Support & Sponsor
+### Support
 
-If you find my bots or tools helpful, you can support my open-source development:
+If you find my projects helpful, you can support my open-source work:
 
 <p align="left">
-  <a href="https://github.com/sponsors/FrostSue">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  <a href="https://buymeacoffee.com/frostsue" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   &nbsp;
-  <a href="https://ko-fi.com/frostsue">
-    <img src="https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+  <a href="https://ko-fi.com/frostsue" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </p>
 
@@ -56,4 +56,4 @@ If you find my bots or tools helpful, you can support my open-source development
 - **Telegram:** [@FrostSue](https://t.me/FrostSue)
 - **Discord:** `@frostsue`
 - **Email:** [emirhan_58600@hotmail.com](mailto:emirhan_58600@hotmail.com)
-- **Personal Site:** [frostsue.github.io](https://frostsue.github.io/)
+- **Website:** [frostsue.github.io](https://frostsue.github.io/)
